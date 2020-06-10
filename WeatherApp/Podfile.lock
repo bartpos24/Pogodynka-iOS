@@ -1,0 +1,48 @@
+PODS:
+  - Alamofire (5.0.5)
+  - Kingfisher (5.13.4):
+    - Kingfisher/Core (= 5.13.4)
+  - Kingfisher/Core (5.13.4)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+  - TPKeyboardAvoiding (1.3.3)
+  - TTGSnackbar (1.10.2)
+  - Wrap (3.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0-rc.2)
+  - Kingfisher
+  - RxCocoa (~> 5.1.0)
+  - RxSwift (~> 5.1.0)
+  - TPKeyboardAvoiding
+  - TTGSnackbar
+  - Wrap (~> 3.0.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - TPKeyboardAvoiding
+    - TTGSnackbar
+    - Wrap
+
+SPEC CHECKSUMS:
+  Alamofire: df2f8f826963b08b9a870791ad48e07a10090b2e
+  Kingfisher: d2279a7abece3c7f25a80cd2b7f363ca5cf3f44c
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  TPKeyboardAvoiding: 6dd3fe3268b8f2627beb7ff3d82a3cacbdf66a36
+  TTGSnackbar: fc26ad27ae180f4045b03ba19defdc57238e9215
+  Wrap: 918fdb5157e4f701f9503b2633752d6f94616f84
+
+PODFILE CHECKSUM: 78bf9714980dd6ad74cba77ca41607536bd98061
+
+COCOAPODS: 1.9.1
